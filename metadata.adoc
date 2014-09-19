@@ -1,0 +1,12 @@
+
+Author Name
+v1.0, 2014-04-15
+:front-cover-image: image:cover.png[Front Cover,1050,1600]
+:doctype: book
+:producer: Asciidoctor
+:keywords: Asciidoctor, samples, e-book, EPUB3, KF8, MOBI, Asciidoctor.js
+:copyright: CC-BY-SA 3.0
+:imagesdir: images
+
+
+include::practice.adoc[]
